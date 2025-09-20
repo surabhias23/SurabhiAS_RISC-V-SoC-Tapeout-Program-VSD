@@ -9,11 +9,11 @@
  
 </div>
  
+
+This repository documents **week-by-week progress** with tasks inside each week.  
  
-Welcome to my journey through the **SoC Tapeout Program VSD**!  
-This repository documents my **week-by-week progress** with tasks inside each week.  
- 
-"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. Part of India’s largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation’s semiconductor ecosystem
+"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. 
+Part of India’s largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation’s semiconductor ecosystem
  
 ---
  
@@ -21,7 +21,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
  
 | Task | Description | Status |
 |------|-------------|---------|
-| [**Task 0**](Week0/Task0/README.md) | 🛠️ [Tools Installation](Week0/Task0/README.md) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
+| [**Task 0**](Week0/README.md) | 🛠️ [Tools Installation](Week0/README.md) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
  
  
  
